@@ -30,11 +30,11 @@ A passionate AI nerd who’s all about building cool projects and pushing code t
 
 ### 🎏 GitHub Streak Stats
 
-https://github-readme-streak-stats.herokuapp.com/?user=m4tingh&theme=radical
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=m4tingh&theme=radical)
 
 ---
 
 ### 🎩 Top Languages
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=m4tingh&layout=compact&theme=radical
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tingh&layout=compact&theme=radical)
 
