@@ -27,3 +27,14 @@ A passionate AI nerd who’s all about building cool projects and pushing code t
 [![trophy](https://github-profile-trophy.vercel.app/?username=matin123&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+### 🎏 GitHub Streak Stats
+
+https://github-readme-streak-stats.herokuapp.com/?user=m4tingh&theme=radical
+
+---
+
+### 🎩 Top Languages
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=m4tingh&layout=compact&theme=radical
+
