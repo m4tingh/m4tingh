@@ -18,13 +18,13 @@ A passionate AI nerd who’s all about building cool projects and pushing code t
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=matin123&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=m4tingh&show_icons=true&theme=radical)
 
 ---
 
 ### 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=matin123&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=m4tingh&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
