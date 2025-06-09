@@ -1,0 +1,29 @@
+# Hey there, I’m Matin! 👋
+
+## 🤖 AI Developer | Code wizard & innovation seeker
+
+---
+
+### About Me
+A passionate AI nerd who’s all about building cool projects and pushing code to new limits. Always leveling up and chasing that next big idea.
+
+---
+
+### 🚀 Skills  
+- Languages: Python | SQL | C#
+- Tools: Git | Docker | TensorFlow | Bizagi  
+- Expertise: Artificial Intelligence | Machine Learning | Web Development
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=matin123&show_icons=true&theme=radical)
+
+---
+
+### 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=matin123&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
