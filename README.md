@@ -9,6 +9,14 @@ A passionate AI nerd who’s all about building cool projects and pushing code t
 
 ---
 
+### 🏷️ Tags / Interests
+
+![AI](https://img.shields.io/badge/Focus-AI-blue)
+![Meta-Learning](https://img.shields.io/badge/Meta--Learning-pink)
+![Bizagi](https://img.shields.io/badge/Process--Modeling-orange)
+
+---
+
 ### 🚀 Skills  
 - Languages: Python | SQL | C#
 - Tools: Git | Docker | TensorFlow | Bizagi  
