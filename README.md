@@ -11,7 +11,7 @@ A passionate AI nerd who’s all about building cool projects and pushing code t
 
 ### 🏷️ Tags / Interests
 
-[![AI](https://img.shields.io/badge/AI)](https://github.com/m4tingh?tab=repositories&q=AI)
+[![AI](https://img.shields.io/badge/Focus-AI-blue)](https://github.com/m4tingh?tab=repositories)
 [![Meta-Learning](https://img.shields.io/badge/Meta--Learning-pink)](https://github.com/m4tingh/Few-Shot-Skin-Disease-Classification)
 [![Few-Shot Learning](https://img.shields.io/badge/Few--Shot--Learning-purple)](https://github.com/m4tingh/Few-Shot-Skin-Disease-Classification)
 [![Telegram Bots](https://img.shields.io/badge/Bots-Telegram-9cf)](https://github.com/m4tingh/profinder)
