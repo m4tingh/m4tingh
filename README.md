@@ -42,8 +42,7 @@ A passionate AI nerd who’s all about building cool projects and pushing code t
 
 ### 📂 Featured Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tingh&repo=profinder&theme=radical)](https://github.com/m4tingh/Few-Shot-Skin-Disease-Classification)
-*Few-shot classification model for skin diseases* 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tingh&repo=profinder&theme=radical)](https://github.com/m4tingh/Few-Shot-Skin-Disease-Classification)| AI-powered product recommendation assistant |
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tingh&repo=profinder&theme=radical)](https://github.com/m4tingh/profinder)
 *AI-powered product recommendation assistant* 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tingh&repo=profinder&theme=radical)](https://github.com/m4tingh/my-project)
