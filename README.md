@@ -29,6 +29,7 @@ A passionate AI nerd who’s all about building cool projects and pushing code t
 
 ### 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=m4tingh&show_icons=true&theme=radical)
 
 ---
 
