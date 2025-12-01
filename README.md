@@ -54,7 +54,11 @@ A passionate AI nerd who’s all about building cool projects and pushing code t
 ### 📂 Featured Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tingh&repo=Few-Shot-Skin-Disease-Classification&theme=radical)](https://github.com/m4tingh/Few-Shot-Skin-Disease-Classification)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tingh&repo=profinder&theme=radical)](https://github.com/m4tingh/profinder)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tingh&repo=my-project&theme=radical)](https://github.com/m4tingh/my-project)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tingh&repo=book-to-image&theme=radical)](https://github.com/m4tingh/book-to-image)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m4tingh&repo=TaxLaw-RAG-Assistant&theme=radical)](https://github.com/m4tingh/TaxLaw-RAG-Assistant)
